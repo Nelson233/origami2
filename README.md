@@ -6,17 +6,17 @@ Under review.
 
 ## Installation
 
-First, you should install docker-desktop following this [link](https://www.docker.com/products/docker-desktop).
+First, you should install docker-desktop. Following this [link](https://www.docker.com/products/docker-desktop).
 
 ```
 Docker is the world's easiest way to create, manage, and deliver applications.
 ```
 
-Then, download this repository to your local directory, for example, /path/to/save.
+Then, download this repository into your local directory, for example, /path/to/save.
 
 ## Starup
 
-After downloading, open a terminal (command in Windows) window and typing these commands:
+After downloading, open a terminal window (i.e., Terminal in Mac, Command in Windows) and typing these commands:
 
 ```bash
 cd /path/to/save
@@ -26,7 +26,7 @@ docker-compose up -d
 
 ## Shutdown
 
-Open a terminal (command in Windows) window and typing these commands:
+Open the terminal window (i.e., Terminal in Mac, Command in Windows) and typing these commands:
 
 ```bash
 cd /path/to/save
@@ -35,7 +35,7 @@ docker-compose down
 
 ## How to use?
 
-Open your browser and navigate to http://localhost:8080.
+Open your browser (e.g., Edge, Chrome, Safari) and navigate to http://localhost:8080.
 
 ## Re-distribution
 
